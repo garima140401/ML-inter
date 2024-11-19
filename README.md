@@ -1,2 +1,2 @@
 # ML-inter
-latest project on digits
+ml projects #learnings
